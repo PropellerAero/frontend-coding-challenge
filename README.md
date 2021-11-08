@@ -2,7 +2,7 @@
 
 ## The latest and greatest mapping application in town!
 
-At Propeller we love tiles - we love serving them and we love consuming them - much like :cake:. We need you to build a new front-end mapping application that can consume tiles from an online server and correctly grid / display for the user.
+At Propeller we love tiles - we love serving them and we love consuming them - much like :cake:. We need you to build a new front-end mapping application that can consume tiles from an online server and correctly grid / display them for the user.
 
 We have a rough mockup from our designers and we need you to bring that vision to life.
 
