@@ -8,7 +8,7 @@ We have a rough mockup from our designers and we need you to bring that vision t
 
 ## The Mockup
 
-![This is only a guide to implementation and you can change this however you see fit](https://PropellerAero/frontend-coding-challenge/blob/main/prototype.png?raw=true)
+![This is only a guide to implementation and you can change this however you see fit](https://github.com/PropellerAero/frontend-coding-challenge/blob/main/prototype.png?raw=true)
 
 ## Background
 
@@ -16,7 +16,7 @@ Commonly large datasets like maps (2D or 3D) are broken down into chunks with va
 
 ## The Challenge
 
-Create a simple React frontend app that displays the [tiles (available via our server)](https://github.com/PropellerAero/frontend-coding-challenge#where-can-i-get-my-tiles?) in the style of a 2D map view. Please avoid using existing mapping frameworks such as Leaflet, Mapbox etc.
+Create a simple React frontend app that displays the [tiles (available via our server)](https://github.com/PropellerAero/frontend-coding-challenge#where-can-i-get-my-tiles) in the style of a 2D map view. Please avoid using existing mapping frameworks such as Leaflet, Mapbox etc.
 
 ## Requirements
 
