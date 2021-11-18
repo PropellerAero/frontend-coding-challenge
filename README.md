@@ -49,7 +49,7 @@ It's ultimately up to you!
 
 You can use online tools such as [codepen](https://codepen.io/) or [codesandbox](https://codesandbox.io/) (from a template React project) and send us the links.
 
-If you want to get down and dirty you can also create a react app (using Create React App) and send us the code / git repo. The app should be self contained and simple for us to build and run (e.g. provide npm install/build/start).
+If you want to go from scratch you can also create a react app (using Create React App) and send us the code / git repo. The app should be self contained and simple for us to build and run (e.g. provide npm install/build/start).
 
 ## Where can I get my tiles?
 
