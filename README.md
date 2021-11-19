@@ -53,7 +53,7 @@ If you want to go from scratch you can also create a react app (using Create Rea
 
 ## Where can I get my tiles?
 
-Tiles are available as a GET request at the url `https://challenge-tiler.services.propelleraero.com/:z/:x/:y?token=<id>` where z is the zoom level (0 being most zoomed out), x is the column, and y is the row. If the tile does not exist for a given zxy triplet the server will return a status code of `404`. Zoom only goes up to 3.
+Tiles are available as a GET request at the url `https://challenge-tiler.services.propelleraero.com/tiles/:z/:x/:y?token=<id>` where z is the zoom level (0 being most zoomed out), x is the column, and y is the row. If the tile does not exist for a given zxy triplet the server will return a status code of `404`. Zoom only goes up to 3.
 
 Your token will be sent to you as part of the challenge and this should be substituted in as the `token=<id>` query parameter. Missing or bad tokens will respond with a status code of `403`.
 
