@@ -1,4 +1,4 @@
-# Propeller Front End Coding Challenge (online)
+# Propeller Front End Coding Challenge
 
 ## The latest and greatest mapping application in town!
 
